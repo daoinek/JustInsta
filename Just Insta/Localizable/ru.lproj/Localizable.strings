@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Kostya Bershov on 5/22/19.
+  Copyright © 2019 Daoinek Studio. All rights reserved.
+*/
+
+"Sign up" = "Регистрация";
+"Login" = "Войти";
+"Updated" = "Обновлено";
+"Have an account?" = "Уже есть аккаунт?";
+"Reset the password" = "Сбросить пароль";
+"No account?" = "Нет аккаунта?";
+"Use count" = "Ошибка! Используйте числа!";
+"Will be charged coins:" = "Будет списано монет:";
+"testRequest" = "Запрос отправлен! Ожидайте лайки на фото.";
+"Request has been sent" = "Запрос отправлен";
+"Coins:" = "Монет:";
+"Something went wrong" = "Упс.. Что-то пошло не так";
+"Confirm Registration" = "Подтвердите регистрацию";
+"Confirm action" = "Подтвердите действие";
+"No order" = "Нет заказов";
+"Fill in the fields" = "Заполните поля";
+"Error" = "Ошибка";
+"Could not order service" = "Не удалось заказать услугу";
+"Insufficient funds in the account" = "Недостаточно средств на счету";
+"Yes" = "Да";
+"No" = "Нет";
+"Typo in the specified data or no internet connection" = "Опечатка в указанных данных или нет подключения к интернету";
+"Do you really want to logout?" = "Точно хотите выйти?";
+"Select category" = "Выберите категорию";
+"Likes" = "Лайки";
+"Followers" = "Подписчики";
+"Views" = "Просмотры";
+"Comments" = "Комментарии";
+"Statistic" = "Статистика";
+"Internet connection FAILED" = "Проблемы с интернет-подключением";
+"Email Already In Use" = "Почтовый ящик уже используется";
+"Invalid email" = "Некорректный почтовый ящик";
+"User Not Found" = "Пользователь не найден";
+"Wrong Password" = "Неверный пароль";
+"Select language" = "Выберите язык";
+"Cancel" = "Отмена";
+"no network" = "нет сети";
+"Activate your account for a free trial service. The message will be sent to email" = "Активируйте ваш аккаунт для получения бесплатной тестовой услуги. Письмо будет отправлено на Email";

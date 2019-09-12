@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Just Insta/Manager/PriceManager.swift"
+            timestampString = "585528147.6230921"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Just_Insta.PriceManager.__allocating_init() -&gt; Just_Insta.PriceManager"
+                  moduleName = "Just Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daoinek/Desktop/Swift/test/Just%20Insta/Manager/PriceManager.swift"
+                  timestampString = "585496473.629778"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Just_Insta.PriceManager.init() -&gt; Just_Insta.PriceManager"
+                  moduleName = "Just Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daoinek/Desktop/Swift/test/Just%20Insta/Manager/PriceManager.swift"
+                  timestampString = "585496473.635716"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Just_Insta.PriceManager.__deallocating_deinit"
+                  moduleName = "Just Insta"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/daoinek/Desktop/Swift/test/Just%20Insta/Manager/PriceManager.swift"
+                  timestampString = "585496473.638373"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,207 @@
+
+/* Class = "UITextView"; text = "You can test the service for free. Enter the link in the \"link\" field to get test likes on the photo. Account must be open."; ObjectID = "18D-Jn-1lC"; */
+"18D-Jn-1lC.text" = "Вы можете протестировать сервис бесплатно. Укажите ссылку на фото в поле \"ссылка\", чтобы получить тестовые лайки. Аккаунт должен быть открыт.";
+
+/* Class = "UINavigationItem"; title = "Just Insta"; ObjectID = "2Nt-y9-ROF"; */
+"2Nt-y9-ROF.title" = "Just Insta";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "317-gK-Evd"; */
+"317-gK-Evd.title" = "Назад";
+
+/* Class = "UITextField"; placeholder = "Type service"; ObjectID = "58H-BM-Yoh"; */
+"58H-BM-Yoh.placeholder" = "Тип услуги";
+
+/* Class = "UITextField"; text = "Test order"; ObjectID = "58H-BM-Yoh"; */
+"58H-BM-Yoh.text" = "Тестовый заказ";
+
+/* Class = "UIViewController"; title = "About App"; ObjectID = "6E1-Mf-kKO"; */
+"6E1-Mf-kKO.title" = "О приложении";
+
+/* Class = "UILabel"; text = "Qt: 250"; ObjectID = "6ZV-vW-Tyz"; */
+"6ZV-vW-Tyz.text" = "Qt: 250";
+
+/* Class = "UILabel"; text = "Have an account?"; ObjectID = "7PQ-Mb-g8D"; */
+"7PQ-Mb-g8D.text" = "Уже есть аккаунт?";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "Ca6-bz-9az"; */
+"Ca6-bz-9az.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "FcH-x3-mRW"; */
+"FcH-x3-mRW.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "GTF-6T-0N8"; */
+"GTF-6T-0N8.text" = "1800 руб";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "GvM-yV-kEW"; */
+"GvM-yV-kEW.normalTitle" = "Сбросить";
+
+/* Class = "UITableViewSection"; headerTitle = "Buy coins"; ObjectID = "JCP-Q9-Zcd"; */
+"JCP-Q9-Zcd.headerTitle" = "Пополнить баланс";
+
+/* Class = "UITabBarItem"; title = "Just Insta"; ObjectID = "JHk-LX-Khn"; */
+"JHk-LX-Khn.title" = "Just Insta";
+
+/* Class = "UILabel"; text = "Jast Insta"; ObjectID = "K7q-5a-Dv2"; */
+"K7q-5a-Dv2.text" = "Jast Insta";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "KFG-db-GgL"; */
+"KFG-db-GgL.placeholder" = "Email";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "LFm-dN-8Om"; */
+"LFm-dN-8Om.title" = "История";
+
+/* Class = "UITextField"; placeholder = "Пароль"; ObjectID = "Mg1-WB-zGN"; */
+"Mg1-WB-zGN.placeholder" = "Пароль";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "O0P-cU-upv"; */
+"O0P-cU-upv.normalTitle" = "Запуск";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "OKr-3H-6fe"; */
+"OKr-3H-6fe.title" = "История";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "OXp-kK-NO2"; */
+"OXp-kK-NO2.text" = "90 руб";
+
+/* Class = "UILabel"; text = "250 coins"; ObjectID = "QQQ-6V-Ovf"; */
+"QQQ-6V-Ovf.text" = "500 монет";
+
+/* Class = "UITextField"; placeholder = "Имя"; ObjectID = "S95-W9-DY0"; */
+"S95-W9-DY0.placeholder" = "Имя";
+
+/* Class = "UILabel"; text = "Запрос отправлен"; ObjectID = "Skw-07-1tf"; */
+"Skw-07-1tf.text" = "Запрос отправлен";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "Ve1-tK-2Gv"; */
+"Ve1-tK-2Gv.placeholder" = "Категория";
+
+/* Class = "UITextField"; text = "Likes"; ObjectID = "Ve1-tK-2Gv"; */
+"Ve1-tK-2Gv.text" = "Заказать лайки";
+
+/* Class = "UILabel"; text = "Rate app"; ObjectID = "WjB-Ww-idU"; */
+"WjB-Ww-idU.text" = "Оценить приложение";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "ZCf-Pp-pCo"; */
+"ZCf-Pp-pCo.text" = "Completed";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "ZNy-bW-LZc"; */
+"ZNy-bW-LZc.text" = "4900 руб";
+
+/* Class = "UILabel"; text = "26.05.2019"; ObjectID = "Zgo-qV-mid"; */
+"Zgo-qV-mid.text" = "26.05.2019";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "aNa-jo-jNy"; */
+"aNa-jo-jNy.title" = "Назад";
+
+/* Class = "UILabel"; text = "Share with friends"; ObjectID = "acG-NO-p1J"; */
+"acG-NO-p1J.text" = "Поделиться с друзьями";
+
+/* Class = "UILabel"; text = "1000 coins"; ObjectID = "bVk-nV-0Ie"; */
+"bVk-nV-0Ie.text" = "3000 монет";
+
+/* Class = "UILabel"; text = "SingUp"; ObjectID = "ckV-yE-UMG"; */
+"ckV-yE-UMG.text" = "Регистрация";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "cks-yc-57Z"; */
+"cks-yc-57Z.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Link"; ObjectID = "d9V-DR-EgF"; */
+"d9V-DR-EgF.placeholder" = "Ссылка";
+
+/* Class = "UITextField"; placeholder = "Quantity"; ObjectID = "eCm-nJ-nlX"; */
+"eCm-nJ-nlX.placeholder" = "Количество";
+
+/* Class = "UILabel"; text = "50 coins"; ObjectID = "eoD-pf-REo"; */
+"eoD-pf-REo.text" = "100 монет";
+
+/* Class = "UIViewController"; title = "Photo"; ObjectID = "fVQ-xy-MTD"; */
+"fVQ-xy-MTD.title" = "Публикация";
+
+/* Class = "UIBarButtonItem"; title = "Coins: 2566"; ObjectID = "faS-DI-I7C"; */
+"faS-DI-I7C.title" = "Монет: 0.00";
+
+/* Class = "UITableViewController"; title = "Настройки"; ObjectID = "faq-F1-dQZ"; */
+"faq-F1-dQZ.title" = "Настройки";
+
+/* Class = "UILabel"; text = "Log Out"; ObjectID = "jaT-DS-44v"; */
+"jaT-DS-44v.text" = "Выйти";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "g6w-xz-oJI"; */
+"g6w-xz-oJI.normalTitle" = "Назад";
+
+/* Class = "UITextView"; text = "Минимальный заказ: 10\nМаксимум: 20 000\nБыстрый запуск, средняя скорость, аккаунты с аватарками."; ObjectID = "hQX-ZO-eKR"; */
+"hQX-ZO-eKR.text" = "Минимальный заказ: 10\nМаксимум: 20 000\nБыстрый запуск, средняя скорость, аккаунты с аватарками.";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "hrq-u8-Fr5"; */
+"hrq-u8-Fr5.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Select language"; ObjectID = "iOE-4r-d7a"; */
+"iOE-4r-d7a.text" = "Изменить язык";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "iOE-nw-nRb"; */
+"iOE-nw-nRb.text" = "900 руб";
+
+/* Class = "UILabel"; text = "Test Order"; ObjectID = "kOL-z3-ecO"; */
+"kOL-z3-ecO.text" = "Тестовый заказ";
+
+/* Class = "UITableViewSection"; headerTitle = "Feedback"; ObjectID = "neJ-al-1qj"; */
+"neJ-al-1qj.headerTitle" = "Обратная связь";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "ogD-qa-QbA"; */
+"ogD-qa-QbA.normalTitle" = "Войти";
+
+/* Class = "UITextField"; placeholder = "Link"; ObjectID = "p5A-c1-IdG"; */
+"p5A-c1-IdG.placeholder" = "Ссылка";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "qZx-Dc-u8k"; */
+"qZx-Dc-u8k.text" = "450 руб";
+
+/* Class = "UITextField"; placeholder = "Category"; ObjectID = "rHL-zw-mIL"; */
+"rHL-zw-mIL.placeholder" = "Категория";
+
+/* Class = "UILabel"; text = "Write to developer"; ObjectID = "rWc-kw-TEq"; */
+"rWc-kw-TEq.text" = "Написать разработчику";
+
+/* Class = "UITextField"; placeholder = "Type service"; ObjectID = "rWf-PC-Vxa"; */
+"rWf-PC-Vxa.placeholder" = "Тип услуги";
+
+/* Class = "UIBarButtonItem"; title = "Refresh"; ObjectID = "rx1-9Z-NY8"; */
+"rx1-9Z-NY8.title" = "Обновить";
+
+/* Class = "UILabel"; text = "Like"; ObjectID = "sa7-pj-A9I"; */
+"sa7-pj-A9I.text" = "Like";
+
+/* Class = "UILabel"; text = "10 coins"; ObjectID = "tEd-yR-MKe"; */
+"tEd-yR-MKe.text" = "50 монет";
+
+/* Class = "UILabel"; text = "Buy"; ObjectID = "tTS-oi-oAv"; */
+"tTS-oi-oAv.text" = "180 руб";
+
+/* Class = "UILabel"; text = "Reset the password"; ObjectID = "vSe-Cc-NgC"; */
+"vSe-Cc-NgC.text" = "Сбросить пароль";
+
+/* Class = "UIButton"; normalTitle = "Resset the password"; ObjectID = "vwq-vN-j05"; */
+"vwq-vN-j05.normalTitle" = "Сбросить пароль";
+
+/* Class = "UILabel"; text = "500 coins"; ObjectID = "vxS-BV-9q2"; */
+"vxS-BV-9q2.text" = "1000 монет";
+
+/* Class = "UILabel"; text = "100 coins"; ObjectID = "wEz-1t-zRh"; */
+"wEz-1t-zRh.text" = "250 монет";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "wW1-CO-wvc"; */
+"wW1-CO-wvc.normalTitle" = "Пропустить";
+
+/* Class = "UILabel"; text = "Will be charged coins:"; ObjectID = "ws0-86-uHO"; */
+"ws0-86-uHO.text" = "Будет списано монет:";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "xaD-kF-QCO"; */
+"xaD-kF-QCO.normalTitle" = "Запуск";
+
+/* Class = "UITextField"; placeholder = "Quantity"; ObjectID = "yiB-YO-yNk"; */
+"yiB-YO-yNk.placeholder" = "Количество";
+
+/* Class = "UITextField"; text = "10"; ObjectID = "yiB-YO-yNk"; */
+"yiB-YO-yNk.text" = "10";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "zw6-Rh-myj"; */
+"zw6-Rh-myj.title" = "Настройки";

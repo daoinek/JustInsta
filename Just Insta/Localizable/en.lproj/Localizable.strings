@@ -1,0 +1,47 @@
+/* 
+  Localizable.strings
+  test
+
+  Created by Kostya Bershov on 5/22/19.
+  Copyright © 2019 Daoinek Studio. All rights reserved.
+*/
+
+"Sign up" = "Sign up";
+"Login" = "Login";
+"Have an account?" = "Have an account?";
+"No account?" = "No account?";
+"Updated" = "Updated";
+"Use count" = "Error! Use numbers!";
+"Reset the password" = "Reset the password";
+"Will be charged coins:" = "Will be charged coins:";
+"Request has been sent" = "Request has been sent";
+"Coins:" = "Coins:";
+"Something went wrong" = "Something went wrong";
+"Confirm Registration" = "Confirm Registration";
+"Confirm action" = "Confirm action";
+"Fill in the fields" = "Fill in the fields";
+"No order" = "No order";
+"Error" = "Error";
+"Could not order service" = "Could not order service";
+"Insufficient funds in the account" = "Insufficient funds in the account";
+"Yes" = "Yes";
+"No" = "No";
+"Typo in the specified data or no internet connection" = "Typo in the specified data or no internet connection";
+"Do you really want to logout?" = "Do you really want to logout?";
+"Select category" = "Select category";
+"Likes" = "Likes";
+"Followers" = "Followers";
+"Views" = "Views";
+"Comments" = "Comments";
+"Statistic" = "Statistic";
+"Internet connection FAILED" = "Internet connection FAILED";
+"Email Already In Use" = "Email Already In Use";
+"Invalid email" = "Invalid email";
+"User Not Found" = "User Not Found";
+"Wrong Password" = "Wrong Password";
+"Select language" = "Select language";
+"Cancel" = "Cancel";
+"no network" = "no network";
+"Activate your account for a free trial service. The message will be sent to email" = "Activate your account for a free trial service. The message will be sent to email";
+
+
