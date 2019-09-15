@@ -512,7 +512,7 @@ class InstaController: UIViewController , UIPickerViewDelegate, UIPickerViewData
     }
 
 
-    // MARK: - Запуск слуги
+    // MARK: - Запуск услуги
     
     @IBAction func nakrutka(_ sender: UIButton) {
         let linkText = textLink.text!
@@ -526,7 +526,11 @@ class InstaController: UIViewController , UIPickerViewDelegate, UIPickerViewData
             if x == true {
         var request = URLRequest(url: URL(string: "https://smm.nakrutka.by/api/")!)
         request.httpMethod = "POST"
-        let postString = "key=2c9df49839a189e16ae18049af6e6776&action=create&service=\(serviceType)&quantity=\(countText)&link=\(linkText)"
+                
+        // В перемнной "postString" заменить "yourAPIKey" на свой ключ API с сайта nakrutka.by
+                
+        let postString = "key=yourAPIKey&action=create&service=\(serviceType)&quantity=\(countText)&link=\(linkText)"
+        
         request.httpBody = postString.data(using: .utf8)
         
         
