@@ -147,37 +147,42 @@ class HistoryController: UIViewController, UITableViewDataSource, UITableViewDel
             
             cell.countCell.text = "Qt: " + testOrderInfo[indexPath.row]["count"]!
             cell.countCell.isHidden = false
-            if testOrderInfo[indexPath.row]["type"] == "Лайки" {
-                cell.typeCell.text = "Like"
-                cell.typeCell.isHidden = false
-            } else if testOrderInfo[indexPath.row]["type"] == "Подписчики" {
-                cell.typeCell.text = "Follow"
-                cell.typeCell.isHidden = false
-            } else if testOrderInfo[indexPath.row]["type"] == "Комментарии" {
-                cell.typeCell.text = "Comment"
-                cell.typeCell.isHidden = false
-            } else if testOrderInfo[indexPath.row]["type"] == "Просмотры" {
-                cell.typeCell.text = "View"
-                cell.typeCell.isHidden = false
-            } else {
-                cell.typeCell.isHidden = true
-                cell.typeCell.text = ""
+            
+            switch testOrderInfo[indexPath.row]["type"] {
+                case "Лайки":
+                    cell.typeCell.text = "Like"
+                    cell.typeCell.isHidden = false
+                case "Подписчики":
+                    cell.typeCell.text = "Follow"
+                    cell.typeCell.isHidden = false
+                case "Комментарии":
+                    cell.typeCell.text = "Comment"
+                    cell.typeCell.isHidden = false
+                case "Просмотры":
+                    cell.typeCell.text = "View"
+                    cell.typeCell.isHidden = false
+                default:
+                    cell.typeCell.isHidden = true
+                    cell.typeCell.text = ""
             }
+            
             cell.dateCell.text = testOrderInfo[indexPath.row]["date"]
             cell.dateCell.isHidden = false
             
-            if testOrderInfo[indexPath.row]["type"] == "Лайки" {
-                cell.imgCell.image = UIImage(named: "like.png")
-                cell.imgCell.isHidden = false
-            } else if testOrderInfo[indexPath.row]["type"] == "Подписчики" {
-                cell.imgCell.image = UIImage(named: "follow.png")
-                cell.imgCell.isHidden = false
-            } else if testOrderInfo[indexPath.row]["type"] == "Комментарии" {
-                cell.imgCell.image = UIImage(named: "comment.png")
-                cell.imgCell.isHidden = false
-            } else {
-                cell.imgCell.image = UIImage(named: "view.png")
-                cell.imgCell.isHidden = false
+            
+            switch testOrderInfo[indexPath.row]["type"] {
+                case "Лайки":
+                    cell.imgCell.image = UIImage(named: "like.png")
+                    cell.imgCell.isHidden = false
+                case "Подписчики":
+                    cell.imgCell.image = UIImage(named: "follow.png")
+                    cell.imgCell.isHidden = false
+                case "Комментарии":
+                    cell.imgCell.image = UIImage(named: "comment.png")
+                    cell.imgCell.isHidden = false
+                default:
+                    cell.imgCell.image = UIImage(named: "view.png")
+                    cell.imgCell.isHidden = false
             }
 
         } else {
